@@ -11,11 +11,11 @@ Databases:
 mySQL, SAP
 
 Applications:
-DevTools, VSCode, Git, Postman, JMeter, SoapUI,
+DevTools, VSCode, Git (TortoiseGit), Postman, JMeter, SoapUI,
 
 Management Frameworks:
 Scrum, Kanban, Agile
 
 Additional:
 JSON, cXML, HTML, CCS
-Jira, Confluence
+Jira, Confluence, TestLink

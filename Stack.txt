@@ -1,0 +1,21 @@
+Testing:
+Manual, Automatation, API, Functional, Smoke, Acceptance, Regression, Integration, Performance
+
+Languages:
+javascript, node.js, R, SQL
+
+Frameworks:
+cypress
+
+Databases:
+mySQL, SAP
+
+Applications:
+DevTools, VSCode, Git, Postman, JMeter, SoapUI,
+
+Management Frameworks:
+Scrum, Kanban, Agile
+
+Additional:
+JSON, cXML, HTML, CCS
+Jira, Confluence
